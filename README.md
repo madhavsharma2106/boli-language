@@ -28,11 +28,11 @@ Just like lisp, Bolo also is very simple. In its currrent edition, bolo can perf
 ## Usage
 
 - Performing simple operations
-  ![Simple Operations]["./screenshots/simple opreration.png"]
+  ![Simple Operations]["https://github.com/madhavsharma2106/boli-language/blob/master/screenshots/simple_opreration.png"]
 - Nested Opetrations
-  ![Nested Operations]["./screenshots/nested operations.png"]
+  ![Nested Operations][".https://github.com/madhavsharma2106/boli-language/blob/master/screenshots/nested_operations.png"]
 - Declaring variables
-  ![Declaring variables]["./screenshots/delaring variables.png"]
+  ![Declaring variables]["https://github.com/madhavsharma2106/boli-language/blob/master/screenshots/delaring_variables.png"]
 
 ## Installation
 
